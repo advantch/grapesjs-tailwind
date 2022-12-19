@@ -184,8 +184,10 @@ Build the source
 $ npm run build
 ```
 
+# install
 
+npm install git+ssh://git@github.com:advantch/grapejstailwind.git
 
 ## License
 
-MIT
+
